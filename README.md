@@ -2,5 +2,5 @@ This repository contains an undocumented and experimental extension of our paper
 
 ### External Links
 
-* http://graphics.stanford.edu/~mlrobert/github/MultiSeg/sdk.zip
-* http://graphics.stanford.edu/~mlrobert/github/MultiSeg/results.avi
+* http://graphics.stanford.edu/papers/gpu_level_set/github/MultiSeg/sdk.zip
+* http://graphics.stanford.edu/papers/gpu_level_set/github/MultiSeg/results.avi
